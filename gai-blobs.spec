@@ -57,7 +57,7 @@ Icon=%{name}
 Terminal=false
 Type=Application
 StartupNotify=true
-Categories=X-MandrivaLinux-MoreApplications-Games-Other
+Categories=X-MandrivaLinux-MoreApplications-Games-Other;
 EOF
 
 
