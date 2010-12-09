@@ -1,6 +1,6 @@
 %define name gai-blobs
 %define version 0.2b
-%define release %mkrel 6
+%define release %mkrel 7
 
 Name: %name
 Summary: GAI applet displaying blobs
